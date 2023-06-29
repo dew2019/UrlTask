@@ -2,9 +2,9 @@
 
 // 定义要访问的URL数组
 $urls = [
-    'https://118.89.106.67/con_gau/bonus',
-    'https://118.89.106.67/shabi.html',
-    'https://118.89.106.67/con_gau/YuEBao'
+    'https://baidu.com/admin/bonus',
+    'https://baidu.com/shazi.html',
+    'https://baidu.com/admin/yuebao'
 ];
 
 $pid = pcntl_fork();
